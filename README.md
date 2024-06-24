@@ -16,7 +16,7 @@ A lot of usefull links to work such as WordPress/Frontend Developer
 
 - [Listing all WordPress actions and filters(Hooks)](https://wordpresshooks.webinista.com/)
 
-### Plugins
+### - Plugins
 
 - [Be Media from Production](https://wordpress.org/plugins/be-media-from-production/): Plugin to use media files from production in staging or local development
 
