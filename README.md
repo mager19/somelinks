@@ -24,4 +24,4 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 ## Utils
 
-1. [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
+- [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
