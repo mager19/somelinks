@@ -1,6 +1,6 @@
-# Somelinks
+# SomeLinks
 
-A lot of usefull links to work such as WordPress/Frontend Developer
+A lot of useful links to work such as WordPress/Frontend Developer
 
 **Table of Contents**
 
@@ -23,3 +23,5 @@ A lot of usefull links to work such as WordPress/Frontend Developer
 ## Javascript
 
 ## Utils
+
+1. [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
