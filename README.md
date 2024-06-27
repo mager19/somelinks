@@ -22,7 +22,9 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 ## Javascript
 
+[avvvatars](https://avvvatars.com/): Free UI Avatars for Your Next Project
+
 ## Utils
 
 - [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
-- [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentacion step by step
+- [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
