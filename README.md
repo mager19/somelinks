@@ -29,3 +29,4 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 - [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
 - [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
+- [Mesh Gradients](https://www.magicpattern.design/tools/mesh-gradients): Mesh Gradients Generator by MagicPattern
