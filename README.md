@@ -15,6 +15,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 ### - Core (Actions, hooks, Examples, or wpcore references)
 
 - [Listing all WordPress actions and filters(Hooks)](https://wordpresshooks.webinista.com/)
+- [Generate WordPress code snippets blazzing fast and minimize plugin overload](https://wpturbo.dev/)
 
 ### - Plugins
 
