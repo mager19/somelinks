@@ -31,3 +31,4 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
 - [Mesh Gradients](https://www.magicpattern.design/tools/mesh-gradients): Mesh Gradients Generator by MagicPattern
 - [Lighthouse via npx - revisa el rendimiento de la web] - npx unlighthouse --site <tu-web>
+- [Svgator](https://www.svgator.com/) created animated components
