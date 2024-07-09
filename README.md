@@ -27,18 +27,18 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 ### React
 
-[Slider](https://naver.github.io/egjs-flicking/) : Slider
-[Router](https://npm.im/wouter) : Router
-[Charts](https://recharts.org/en-US/) : Recharts
-[Drag'n'Drop](https://dndkit.com/) : DnDKit
-[Tanstack Table](https://tanstack.com/table/latest) : Tables
-[Tanstack Query](https://tanstack.com/query/latest) : Data Fetching
-[Sonner](https://sonner.emilkowal.ski/): Notifications
-[Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) : State management solution
-[Modals](http://davidtheclark.github.io/react-aria-modal/demo/) : React Aria Modal
-[Shadcn UI](https://ui.shadcn.com/) : Components UI
-[Framer Motion](https://www.framer.com/motion/) : Animations
-[React Hook Form](https://www.react-hook-form.com/) : Forms
+- [Slider](https://naver.github.io/egjs-flicking/) : Slider
+- [Router](https://npm.im/wouter) : Router
+- [Charts](https://recharts.org/en-US/) : Recharts
+- [Drag'n'Drop](https://dndkit.com/) : DnDKit
+- [Tanstack Table](https://tanstack.com/table/latest) : Tables
+- [Tanstack Query](https://tanstack.com/query/latest) : Data Fetching
+- [Sonner](https://sonner.emilkowal.ski/): Notifications
+- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) : State management solution
+- [Modals](http://davidtheclark.github.io/react-aria-modal/demo/) : React Aria Modal
+- [Shadcn UI](https://ui.shadcn.com/) : Components UI
+- [Framer Motion](https://www.framer.com/motion/) : Animations
+- [React Hook Form](https://www.react-hook-form.com/) : Forms
 
 ## Utils
 
