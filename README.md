@@ -47,3 +47,4 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [Mesh Gradients](https://www.magicpattern.design/tools/mesh-gradients): Mesh Gradients Generator by MagicPattern
 - [Lighthouse via npx - review the performance of the website] - npx unlighthouse --site <tu-web>
 - [Svgator](https://www.svgator.com/) created animated components
+- [CSS mesh gradients](https://www.mshr.app/) A collection of 230 vanilla CSS mesh gradients free for you to use in any of your projects. Browse our generated meshes or create your own custom mesh with our App.
