@@ -42,6 +42,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 ## Utils
 
+- [ai renamer](https://github.com/ozgrozer/ai-renamer): A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
 - [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
 - [Mesh Gradients](https://www.magicpattern.design/tools/mesh-gradients): Mesh Gradients Generator by MagicPattern
