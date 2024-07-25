@@ -21,6 +21,9 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 - [Be Media from Production](https://wordpress.org/plugins/be-media-from-production/): Plugin to use media files from production in staging or local development
 
+## Css
+- [Css Grid Areas - Aprendizaje](https://ishadeed.com/article/css-grid-area/?utm_source=tldrwebdev)
+
 ## Javascript
 
 [avvvatars](https://avvvatars.com/): Free UI Avatars for Your Next Project
