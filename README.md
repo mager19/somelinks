@@ -22,6 +22,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [Be Media from Production](https://wordpress.org/plugins/be-media-from-production/): Plugin to use media files from production in staging or local development
 
 ## Css
+
 - [Css Grid Areas - Aprendizaje](https://ishadeed.com/article/css-grid-area/?utm_source=tldrwebdev)
 - [Css grid areas generator](https://grid.layoutit.com/)
 
@@ -50,6 +51,6 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
 - [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
 - [Mesh Gradients](https://www.magicpattern.design/tools/mesh-gradients): Mesh Gradients Generator by MagicPattern
-- [Lighthouse via npx - review the performance of the website] - npx unlighthouse --site <tu-web>
+- [UI Zard](https://uizard.io/): Turn product ideas into concepts instantly with GenAI
 - [Svgator](https://www.svgator.com/) created animated components
 - [CSS mesh gradients](https://www.mshr.app/) A collection of 230 vanilla CSS mesh gradients free for you to use in any of your projects. Browse our generated meshes or create your own custom mesh with our App.
