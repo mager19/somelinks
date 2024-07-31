@@ -23,7 +23,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 ## Css
 
-- [Css Grid Areas - Aprendizaje](https://ishadeed.com/article/css-grid-area/?utm_source=tldrwebdev)
+- [Css Grid Areas - Learning](https://ishadeed.com/article/css-grid-area/?utm_source=tldrwebdev)
 - [Css grid areas generator](https://grid.layoutit.com/)
 
 ## Javascript
