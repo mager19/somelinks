@@ -54,3 +54,4 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [UI Zard](https://uizard.io/): Turn product ideas into concepts instantly with GenAI
 - [Svgator](https://www.svgator.com/) created animated components
 - [CSS mesh gradients](https://www.mshr.app/) A collection of 230 vanilla CSS mesh gradients free for you to use in any of your projects. Browse our generated meshes or create your own custom mesh with our App.
+- [Css snippets](https://cssfx.netlify.app/) A collection of simple and beatiful css snippets.
