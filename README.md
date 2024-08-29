@@ -29,6 +29,9 @@ A lot of useful links to work such as WordPress/Frontend Developer
 ## Javascript
 
 [avvvatars](https://avvvatars.com/): Free UI Avatars for Your Next Project
+[Scroll Magic](https://scrollmagic.io/): The javascript library for magical scroll interactions.
+[BarbaJS](https://barba.js.org/) : Create badass, fluid and smooth transitions
+between your website’s pages.
 
 ### React
 
