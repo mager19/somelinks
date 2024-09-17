@@ -8,7 +8,8 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 1. [WordPress](#wordpress)
 2. [Javascript](#javascript)
-3. [Utils ](#utils)
+3. [Utils](#utils)
+4. [Tools](#tools)
 
 ## WordPress
 
@@ -30,11 +31,11 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 - [avvvatars](https://avvvatars.com/): Free UI Avatars for Your Next Project
 - [Scroll Magic](https://scrollmagic.io/): The javascript library for magical scroll interactions.
-- [BarbaJS](https://barba.js.org/): Create badass, fluid and smooth transitions 
-between your website’s pages.
+- [BarbaJS](https://barba.js.org/): Create badass, fluid and smooth transitions
+  between your website’s pages.
 - [Embla Carrousel](https://www.embla-carousel.com): Carrousel javascript compatible with react
 
-### React
+## React
 
 - [Slider](https://naver.github.io/egjs-flicking/) : Slider
 - [Router](https://npm.im/wouter) : Router
@@ -52,11 +53,15 @@ between your website’s pages.
 ## Utils
 
 - [ai renamer](https://github.com/ozgrozer/ai-renamer): A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
-- [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
-- [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
 - [Mesh Gradients](https://www.magicpattern.design/tools/mesh-gradients): Mesh Gradients Generator by MagicPattern
 - [UI Zard](https://uizard.io/): Turn product ideas into concepts instantly with GenAI
 - [Svgator](https://www.svgator.com/) created animated components
 - [CSS mesh gradients](https://www.mshr.app/) A collection of 230 vanilla CSS mesh gradients free for you to use in any of your projects. Browse our generated meshes or create your own custom mesh with our App.
 - [Css snippets](https://cssfx.netlify.app/) A collection of simple and beatiful css snippets.
-- [Aprender Git paso a paso](https://learngitbranching.js.org)
+- [Learning Git step by step](https://learngitbranching.js.org)
+
+## Tools
+
+- [Remove Background WebGPU](https://huggingface.co/spaces/webml-community/remove-background-webgpu) In-browser background removal, powered by 🤗 Transformers.js
+- [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
+- [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
