@@ -50,6 +50,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [Shadcn UI](https://ui.shadcn.com/) : Components UI
 - [Framer Motion](https://www.framer.com/motion/) : Animations
 - [React Hook Form](https://www.react-hook-form.com/) : Forms
+- [Placejs](https://placeholderjs.com/) : Place imgs js
 
 ## Utils
 
