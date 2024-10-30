@@ -51,6 +51,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [Framer Motion](https://www.framer.com/motion/) : Animations
 - [React Hook Form](https://www.react-hook-form.com/) : Forms
 - [Placejs](https://placeholderjs.com/) : Place imgs js
+- [Lightgallery](https://www.lightgalleryjs.com/) : A lightweight, modular, JavaScript image and video lightbox gallery
 
 ## Utils
 
