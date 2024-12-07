@@ -28,6 +28,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [Css grid areas generator](https://grid.layoutit.com/)
 - [Css Simple Animations](https://animation.kaustubhmenon.com/)
 - [CSS Grid Games](https://codingfantasy.com/games/css-grid-attack)
+- [skellyCSS](https://github.com/ritterim/skellyCSS) : A light-weight CSS framework to quickly implement skeletons into your projects.
 
 ## Javascript
 
@@ -53,6 +54,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [React Hook Form](https://www.react-hook-form.com/) : Forms
 - [Placejs](https://placeholderjs.com/) : Place imgs js
 - [Lightgallery](https://www.lightgalleryjs.com/) : A lightweight, modular, JavaScript image and video lightbox gallery
+- [Page Find](https://pagefind.app/) : Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 
 ## Utils
 
