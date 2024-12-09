@@ -69,5 +69,6 @@ A lot of useful links to work such as WordPress/Frontend Developer
 ## Tools
 
 - [Remove Background WebGPU](https://huggingface.co/spaces/webml-community/remove-background-webgpu) In-browser background removal, powered by 🤗 Transformers.js
+- [BG](https://bg.addy.ie/) Remove Image Background
 - [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
 - [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
