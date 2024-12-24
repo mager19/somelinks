@@ -37,6 +37,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [BarbaJS](https://barba.js.org/): Create badass, fluid and smooth transitions
   between your website’s pages.
 - [Embla Carrousel](https://www.embla-carousel.com): Carrousel javascript compatible with react
+- [Driverjs](https://driverjs.com/):Product tours, highlights, contextual help and more
 
 ## React
 
