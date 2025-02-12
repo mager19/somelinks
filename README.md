@@ -73,3 +73,4 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [BG](https://bg.addy.ie/) Remove Image Background
 - [imgto.xyz](https://imgto.xyz/): Easily optimize and compress your images to help improve performance. All free!
 - [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
+- [Video Compressor](https://compress.addy.ie/): Compress videos right in the browser by up to 90% for free. No upload needed.
