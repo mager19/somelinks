@@ -75,3 +75,4 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [Arcade Interactive presentations](https://www.arcade.software/): Create interactive presentation step by step
 - [Video Compressor](https://compress.addy.ie/): Compress videos right in the browser by up to 90% for free. No upload needed.
 - [Screen Recorder](https://record.addy.ie/): Excited to launch Record! A free screen-recorder in the browser 🎬
+- [wipeClean](https://github.com/JeanJouliaCode/wipeClean) : Clear command with super powers
