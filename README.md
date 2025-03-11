@@ -77,3 +77,4 @@ A lot of useful links to work such as WordPress/Frontend Developer
 - [Screen Recorder](https://record.addy.ie/): Excited to launch Record! A free screen-recorder in the browser 🎬
 - [wipeClean](https://github.com/JeanJouliaCode/wipeClean) : Clear command with super powers
 - [ScreenShoot Website](https://postspark.app/screenshot) : Quickly create stunning screenshots for social media with customizable backgrounds, browser frames, aspect ratios, borders, and more. Enhance your posts in just a few clicks!
+- [PlayJS](https://surajadsul.github.io/PlayJS/) : A powerful, open-source playground for testing code snippets, solving coding challenges, and practicing your algorithm skills. Free forever, because it's made by developers for developers.
