@@ -22,6 +22,10 @@ A lot of useful links to work such as WordPress/Frontend Developer
 
 - [Be Media from Production](https://wordpress.org/plugins/be-media-from-production/): Plugin to use media files from production in staging or local development
 
+### - Tools
+
+- [try.new](try.new) : Visit try.new in your browser, and in seconds, you’ll have a fresh WordPress site ready—no registration or setup needed.
+
 ## Css
 
 - [Css Grid Areas - Learning](https://ishadeed.com/article/css-grid-area/?utm_source=tldrwebdev)
