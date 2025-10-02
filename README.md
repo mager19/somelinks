@@ -42,6 +42,7 @@ A lot of useful links to work such as WordPress/Frontend Developer
   between your website’s pages.
 - [Embla Carrousel](https://www.embla-carousel.com): Carrousel javascript compatible with react
 - [Driverjs](https://driverjs.com/):Product tours, highlights, contextual help and more
+- [Splide js slide](https://splidejs.com/): Slide made on typescript
 
 ## React
 
