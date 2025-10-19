@@ -21,8 +21,8 @@ A lot of useful links to work such as WordPress/Frontend Developer
 ### - Plugins
 
 - [Be Media from Production](https://wordpress.org/plugins/be-media-from-production/): Plugin to use media files from production in staging or local development
-- [_do]([https://captaincore.io/_do/]): Set of tools to configure WordPress via console
-- [disembark]([https://disembark.host/]): Clone and backup WordPress via console
+- [_do](https://captaincore.io/_do): Set of tools to configure WordPress via console
+- [disembark](https://disembark.host): Clone and backup WordPress via console
 
 ### - Tools
 
